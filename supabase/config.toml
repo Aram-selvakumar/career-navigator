@@ -1,0 +1,7 @@
+project_id = "ooseghblzerisbztjoqg"
+
+[functions.analyze-job-readiness]
+verify_jwt = false
+
+[functions.career-assistant]
+verify_jwt = false
